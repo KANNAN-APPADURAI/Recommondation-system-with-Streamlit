@@ -1,5 +1,4 @@
-tensorflow 
-numpy 
-pandas 
-streamlit
-streamlit_star_rating
+tensorflow==2.16.1
+numpy==1.26.0
+pandas=2.1.1
+streamlit=1.32.2
