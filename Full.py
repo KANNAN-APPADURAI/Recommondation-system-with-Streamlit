@@ -1,4 +1,4 @@
-!pip install tensorflow numpy pandas streamlit streamlit_star_rating
+pip install tensorflow numpy pandas streamlit streamlit_star_rating
 import tensorflow as tf
 import numpy as np
 import pandas as pd
