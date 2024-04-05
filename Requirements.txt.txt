@@ -1,0 +1,5 @@
+tensorflow 
+numpy 
+pandas 
+streamlit
+streamlit_star_rating
